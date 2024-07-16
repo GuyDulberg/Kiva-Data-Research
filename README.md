@@ -11,6 +11,7 @@ Research Question
 What are the key characteristics and behaviors of lenders on Kiva's crowdfunding platform, and how do these factors influence their lending decisions?
 
 **Objectives**
+
 1) Understand lender attributes and behaviors on Kiva
 
 2) Improve loan recommendations and user engagement
@@ -18,6 +19,7 @@ What are the key characteristics and behaviors of lenders on Kiva's crowdfunding
 3) Identify key lender characteristics and behaviors for personalized recommendations
 
 **Data Overview:***
+
 The dataset comprises several tables with information about lenders and micro-loans on Kiva’s crowdfunding platform:
 
 Bigml and loans: Details about loan applicants, unique loan identifiers, loan amounts, and other attributes.
@@ -82,6 +84,7 @@ influencing lending decisions, such as regional preferences, demographic factors
 loan recommendations, aligning them with lender preferences and enhancing the platform’s efficiency and impact.
 
 **Data and Code**
+
 Link to our data folder
 
 Link to our code repository on GitHub

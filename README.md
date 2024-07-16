@@ -16,3 +16,12 @@ Objectives
 2) Improve loan recommendations and user engagement
 
 3) Identify key lender characteristics and behaviors for personalized recommendations
+
+Data Overview
+The dataset comprises several tables with information about lenders and micro-loans on Kiva’s crowdfunding platform:
+
+Bigml and loans: Details about loan applicants, unique loan identifiers, loan amounts, and other attributes.
+
+lenders: Contains unique usernames, occupations, and other personal details of registered lenders.
+
+loans_lenders: Connects unique loan identifiers to the unique usernames of lenders.

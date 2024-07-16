@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6fe2b7bb-aee1-4e79-9093-fda94d95fe47)***Understanding Lender Behavior on Kiva’s Crowdfunding Platform***
+***Understanding Lender Behavior on Kiva’s Crowdfunding Platform***
 
 Project Overview
 
@@ -74,6 +74,8 @@ classifier identified Borrower_Continent, Average_Age_Range, and Gender_Loan_Pre
 Geographic and demographic factors are key in influencing lending decisions.
 
 The importance of categories in the model is illustrated in the graph below.
+
+![image](https://github.com/user-attachments/assets/6fe2b7bb-aee1-4e79-9093-fda94d95fe47)
 
 **Conclusion**
 

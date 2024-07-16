@@ -1,4 +1,4 @@
-***Understanding Lender Behavior on Kiva’s Crowdfunding Platform***
+![image](https://github.com/user-attachments/assets/6fe2b7bb-aee1-4e79-9093-fda94d95fe47)***Understanding Lender Behavior on Kiva’s Crowdfunding Platform***
 
 Project Overview
 

@@ -63,6 +63,12 @@ To understand the defining characteristics of each cluster, we calculated the me
 
 mean plus two standard deviations. Descriptive strings summarizing cluster profiles were generated for values exceeding these thresholds.
 
+
+
+![image](https://github.com/user-attachments/assets/6fe2b7bb-aee1-4e79-9093-fda94d95fe47)
+
+
+
 **Classification Model**
 
 We developed a random forest classification model to predict lender groups based on their characteristics, achieving an accuracy of 0.809. The random forest 
@@ -75,7 +81,6 @@ Geographic and demographic factors are key in influencing lending decisions.
 
 The importance of categories in the model is illustrated in the graph below.
 
-![image](https://github.com/user-attachments/assets/6fe2b7bb-aee1-4e79-9093-fda94d95fe47)
 
 **Conclusion**
 

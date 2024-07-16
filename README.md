@@ -1,4 +1,4 @@
-Understanding Lender Behavior on Kiva’s Crowdfunding Platform
+***Understanding Lender Behavior on Kiva’s Crowdfunding Platform***
 
 Project Overview
 

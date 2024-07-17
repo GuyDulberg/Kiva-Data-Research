@@ -65,7 +65,8 @@ mean plus two standard deviations. Descriptive strings summarizing cluster profi
 
 
 
-![image](https://github.com/user-attachments/assets/6fe2b7bb-aee1-4e79-9093-fda94d95fe47)
+![image](https://github.com/user-attachments/assets/fb657265-b5ed-43f9-83b7-55d0ccef2e83)
+
 
 
 ![image](https://github.com/user-attachments/assets/8086735a-e457-4109-89f1-9918f1dd8270)
